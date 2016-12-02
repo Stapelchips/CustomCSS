@@ -1,0 +1,12 @@
+#footer-container, #guide-subscriptions-section, .watch-sidebar-gutter {
+	display: none;
+}
+
+.watch-main-col {
+	float: none;
+	margin: 0px auto;
+}
+
+#feed-main-what_to_watch {
+	display: none;
+}

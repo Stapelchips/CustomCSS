@@ -1,0 +1,13 @@
+div[id*="stream_pagelet"],
+div[id*="rightCol"],
+div[id*="appsNav"],
+div[id*="listsNav"],
+div[id*="interestsNav"],
+div[id*="eventsNav"],
+div[id*="u_0_0"],
+div[id*="paymentsNav"]
+{
+	height: 0px !important;
+	overflow: hidden !important;
+	padding: 0px !important;
+}
